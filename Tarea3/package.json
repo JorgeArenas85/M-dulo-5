@@ -1,0 +1,20 @@
+{
+  "name": "tarea3",
+  "version": "1.0.0",
+  "main": "init.js",
+  "type": "module",
+  "scripts": {
+    "start": "node init.js",
+    "dev": "nodemon async.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Arenas",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}

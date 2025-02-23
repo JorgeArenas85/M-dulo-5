@@ -1,0 +1,22 @@
+{
+  "name": "tarea2",
+  "version": "1.0.0",
+  "description": "Realización de tarea 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Aprendizaje"
+  ],
+  "author": "Jorge Arenas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "chance": "^1.1.12",
+    "nodemon": "^3.1.9"
+  }
+}
