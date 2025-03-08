@@ -1,0 +1,18 @@
+{
+  "name": "tarea4",
+  "version": "1.0.0",
+  "description": "Realización de la tarea 4",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate-file": "node generator.js",
+    "find-even-number": "node generator.js",
+    "dev": "node --watch generator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Aprendizaje"
+  ],
+  "author": "Jorge Arenas",
+  "license": "ISC"
+}
